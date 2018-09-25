@@ -1,16 +1,23 @@
-export default function() {
+export default function () {
 	return [
 		{
-			title: 'Js'
+			title: 'Js',
+			pages: 101
 		},
 		{
-			title: 'Harry'
+			title: 'Harry',
+			pages: 1001
+
 		},
 		{
-			title: 'The dark tower'
+			title: 'The dark tower',
+			pages: 401
+
 		},
 		{
-			title: 'Js D'
+			title: 'Js D',
+			pages: 300
+
 		}
 	];
 }
